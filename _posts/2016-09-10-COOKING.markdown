@@ -1,0 +1,19 @@
+---
+layout:     post
+title:      "Enjoy Cooking!"
+subtitle:   "Cooking is joyful."
+date:       2016-09-10 21:00:00
+author:     "Renkai"
+header-img: "img/in-post/1/cook3.jpg"
+tags:
+    - Life
+---
+
+
+Really tasty food cooked by me!
+
+<img width="500px" src="/img/in-post/1/cook1.jpg">
+
+<img width="500px" src="/img/in-post/1/cook2.jpg">
+
+<img width="500px" src="/img/in-post/1/cook3.jpg">
