@@ -1,0 +1,15 @@
+---
+layout:     post
+title:      "Hi, NYC"
+subtitle:   "First post of this blog"
+date:       2016-09-11 21:00:00
+author:     "Renkai"
+header-img: "img/in-post/0/IMG_1357.jpg"
+tags:
+    - Life
+---
+
+
+<img width="500px" src="/img/in-post/0/IMG_1357.jpg">
+
+####Amazing sunset of NYC!
