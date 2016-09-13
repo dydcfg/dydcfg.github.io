@@ -52,8 +52,8 @@ disqus_username: dydcfg
 
 
 # Analytics settings
-#ga_track_id: 'UA-84090600-1'            # Format: UA-xxxxxx-xx
-#ga_domain: xiangrenkai.com
+ga_track_id: 'UA-84090600-1'            # Format: UA-xxxxxx-xx
+ga_domain: xiangrenkai.com
 
 
 
