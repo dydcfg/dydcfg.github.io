@@ -1,8 +1,8 @@
 # Site settings
-title: Reven's Blog
-SEOTitle: Reven | Blog
+title: Renkai Xiang's Blog
+SEOTitle: Renkai | Blog
 header-img: img/home-bg.jpg
-email: rx56@cornell.edu
+email: dydcfg@gmail.com
 description: ""
 keyword: ""
 url: ""              # your host, for absolute URL
@@ -59,7 +59,7 @@ ga_domain: xiangrenkai.com
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "Currently a computer science master candidate in Cornell University. Received Bachelor's degree from Peking University. Love coding, guitar and traveling."
+sidebar-about-description: "Currently a machine learning engineer at Facebook. Ex-googler and Cornell&PKU alumnus."
 sidebar-avatar: /img/avatar-rx.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
